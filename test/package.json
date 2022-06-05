@@ -1,8 +1,12 @@
 {
-    "name": "name",
-    "description": "description",
-    "author": "MAGED",
-    "version": "1.0.0",
-    "main": "pathToMain",
-    "dependencies": {}
+  "name": "package.json",
+  "description": "description",
+  "author": "MAGED",
+  "version": "1.0.0",
+  "main": "pathToMain",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
 }
